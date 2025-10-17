@@ -5,6 +5,7 @@ Asignación: Trabajo Opcional Parcial Puntos Extras
 Este repositorio contiene todos los archivos para el trabajo de integrar el programa del primer parcial con una base de datos en firebase y realtime. 
 Se implementa la arquitectura MVVM. 
 Para el almacenamiento de datos, se conecta en tiempo real a una base de datos de Firebase. 
+Este programa esta destinado a administrativos de la biblioteca que tengan los permisos para alterar toda la información en la base de datos de la biblioteca.
 
 El archivo principal para ejecutar el programa es "main.py"
 
